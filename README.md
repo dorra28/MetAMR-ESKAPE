@@ -61,7 +61,7 @@ MetAMR-ESKAPE/
 ├── models/                       # draft + curated GEMs (SBML)
 ├── results/                      # pipeline outputs (gitignored)
 ├── docs/
-│   └── methods.md                # detailed methods write-up (manuscript-ready draft)
+│   └── methods.md                # detailed methods write-up 
 ├── environment.yml
 ├── Dockerfile
 ├── CITATION.cff
@@ -124,7 +124,7 @@ docker build -t metamr-eskape:latest .
 nextflow run main.nf \
   --samplesheet data/metadata/samplesheet.csv \
   --outdir results \
-  -profile docker      # or: tesla_server
+  -profile docker     
 
 python analysis/scripts/01_load_and_qc_models.py --models_dir results/gems --out results/qc_summary.csv
 python analysis/scripts/02_fba_fva.py --models_dir results/gems --out results/fva_results.csv
