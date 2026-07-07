@@ -143,5 +143,4 @@ original source (BV-BRC / NCBI / CARD).
 
 ## Contact
 
-Dorra Rjaibi — PhD researcher, Laboratory of Biomedical Genomics and Oncogenetics
-(LR16IPT05), Institut Pasteur de Tunis. Supervisor: Dr. Yosr Hamdi.
+Dorra Rjaibi — PhD researcher
