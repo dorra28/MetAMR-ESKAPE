@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this pipeline, please cite it as below."
+title: "MetAMR-ESKAPE: Genome-Scale Metabolic Modeling of Antimicrobial Resistance in ESKAPE Pathogens"
+authors:
+  - family-names: Rjaibi
+    given-names: Dorra
+    affiliation: "Institut Pasteur de Tunis, Laboratory of Biomedical Genomics and Oncogenetics (LR16IPT05)"
+version: 0.1.0
+date-released: 2026-07-07
+license: MIT

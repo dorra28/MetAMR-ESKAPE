@@ -1,0 +1,20 @@
+# Nextflow
+work/
+.nextflow*
+results/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (large / private)
+data/raw/*
+!data/raw/.gitkeep
+data/public/genomes/*.zip
+
+# Models (keep curated, ignore scratch)
+models/scratch/
+
+# OS
+.DS_Store

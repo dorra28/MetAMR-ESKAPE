@@ -1,0 +1,25 @@
+name: metamr-eskape
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - cobra                 # COBRApy - FBA, FVA, gene deletion analysis
+  - carveme                # draft GEM reconstruction from protein FASTA
+  - memote                 # standardized GEM quality reports
+  - bakta                  # bacterial genome annotation
+  - ncbi-amrfinderplus      # AMR gene detection
+  - unicycler               # short/hybrid read assembly
+  - fastp                   # read QC/trimming
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - biopython
+  - jupyterlab
+  - pip
+  - pip:
+      - troppo              # GIMME/iMAT-style context-specific model integration
