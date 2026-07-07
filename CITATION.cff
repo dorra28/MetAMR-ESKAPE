@@ -4,7 +4,6 @@ title: "MetAMR-ESKAPE: Genome-Scale Metabolic Modeling of Antimicrobial Resistan
 authors:
   - family-names: Rjaibi
     given-names: Dorra
-    affiliation: "Institut Pasteur de Tunis, Laboratory of Biomedical Genomics and Oncogenetics (LR16IPT05)"
 version: 0.1.0
 date-released: 2026-07-07
 license: MIT
