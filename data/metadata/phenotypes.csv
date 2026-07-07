@@ -1,0 +1,4 @@
+sample_id,species,resistance_phenotype,drug,mic_value
+PA_001,Pseudomonas aeruginosa,resistant,meropenem,32
+AB_001,Acinetobacter baumannii,resistant,imipenem,16
+KP_001,Klebsiella pneumoniae,susceptible,meropenem,0.5

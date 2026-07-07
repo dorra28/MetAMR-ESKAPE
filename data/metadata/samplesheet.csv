@@ -1,0 +1,4 @@
+sample_id,species,reads_1,reads_2,assembly
+PA_001,Pseudomonas aeruginosa,data/raw/PA_001/R1.fastq.gz,data/raw/PA_001/R2.fastq.gz,
+AB_001,Acinetobacter baumannii,data/raw/AB_001/R1.fastq.gz,data/raw/AB_001/R2.fastq.gz,
+KP_001,Klebsiella pneumoniae,,,data/public/genomes/KP_001_assembly.fasta
